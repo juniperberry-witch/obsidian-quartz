@@ -16,4 +16,17 @@ resources:
 ---
 # Event Details
 **Event Time:**
+
 **Event Steps:** [[Kannsege adapted.pdf]]
+
+**Runes**: 
+- [[Ingwaz]]
+- [[Jera]]
+- [[Othala]]
+- [[Fehu]]
+- [[Ansuz]]
+- [[Berkano]]
+- [[Laguz]]
+
+## Resources
+- [[Kannsege adapted.pdf]]

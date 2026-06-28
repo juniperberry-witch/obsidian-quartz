@@ -18,5 +18,15 @@ Along with [[Der Yuulsege]], this is the highest holiday on the Urglaawe calenda
 
 Experience the joy of life, including the joy of planting new life in the ground. Make the planting a spiritual, loving event. Revel in friends, family, kindred, hobbies, and things you enjoy. 
 # Event Details
-**Event Time**: May 1st
+**Event Time**: May 1st ([[2. Holzent Moon]])
+
 **Event Steps:** [[Walpurgisnacht 2013.pdf]]
+
+**Pantheon**:
+- [[Holle]]
+
+**Runes**:
+- [[Hagalaz]]
+- [[Kenaz]]
+- [[Jera]]
+- [[Wunjo]]

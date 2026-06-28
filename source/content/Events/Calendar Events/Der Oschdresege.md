@@ -16,5 +16,18 @@ resources:
 ---
 At Groundhog Day, we celebrate the Birth of the new. Oschdre is the propagation (the "springing" forth) of life on a larger scale and the childhood phase of the Life cycle.
 # Event Details
-**Event Time**: March 19, 20, 21
+**Event Time**: March 19, 20, 21 ([[1. Holzhaane Moon]])
+
 **Event Steps:** [[Oschdre 2014.pdf]]
+
+**Pantheon**:
+- [[Oschdra]]
+
+**Runes**:
+- [[Ansuz]]
+- [[Jera]]
+- [[Sowilo]]
+- [[Dagaz]]
+
+## Resources
+- [[Oschdre 2014.pdf]]

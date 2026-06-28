@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Animals/Hare.md",
+                "file": "source/content/Animals/Woodcock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hare"
+              "title": "Woodcock"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Animals/Hare.md",
+                "file": "source/content/Animals/Woodcock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hare"
+              "title": "Backlinks for Woodcock"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Animals/Hare.md",
+                "file": "source/content/Animals/Woodcock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hare"
+              "title": "Outgoing links from Woodcock"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Animals/Hare.md",
+                "file": "source/content/Animals/Woodcock.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hare"
+              "title": "Outline of Woodcock"
             }
           }
         ]
@@ -185,41 +185,41 @@
   },
   "active": "2293173f93314f11",
   "lastOpenFiles": [
-    "source/content/index.md",
-    "source/content/category-folder/Some note.md",
-    "source/content/Events/Life Events/Gedechnisleicht (Funeral).md",
-    "source/content/Events/Calendar Events/Der Oschdresege.md",
-    "source/content/Events/Calendar Events/Der Yuulsege.md",
-    "source/content/Events/Calendar Events/Der Walpurgisnachtsege.md",
-    "source/content/Events/Calendar Events/Der Kannsege.md",
-    "source/content/Events/Life Events",
-    "source/content/Events/Calendar Events",
-    "source/content/Events",
+    "source/content/Animals/Wood Duck.md",
     "source/content/Animals/Woodcock.md",
+    "source/content/Pantheon/Wane/Oschdra.md",
+    "source/content/Events/Calendar Events/Der Walpurgisnachtsege.md",
+    "source/content/Events/Calendar Events/Der Yuulsege.md",
+    "source/content/Events/Calendar Events/Der Oschdresege.md",
+    "source/content/Resources/Walpurgisnacht 2013.pdf",
     "source/content/Animals/Hare.md",
-    "source/content/Animals",
+    "source/content/index.md",
     "source/content/Values/Newwereenheide/Es Mitleid (Compassion).md",
     "source/content/Values/Newwereenheide/Die Weisheit (Wisdom).md",
     "source/content/Values/Newwereenheide/Die Verwandschaft (Kinship).md",
     "source/content/Values/Newwereenheide/Die Verwalting (Stewardship).md",
     "source/content/Values/Newwereenheide/Die Selbschtverbessering (Self improvement).md",
     "source/content/Values/Newwereenheide/Die Neigierheit (Curiosity).md",
-    "source/content/Values/Newwereenheide/Der Selbschtreiguck (Introspection).md",
     "source/content/Values/Newwereenheide/Die Geischtlichkeet (Spirituality).md",
+    "source/content/Values/Newwereenheide/Der Selbschtreiguck (Introspection).md",
     "source/content/Values/Newwereenheide/Der Edelmut (Generosity).md",
     "source/content/Values/Die Nein Edelreenheide/Die Waahrheit (Truth).md",
     "source/content/Values/Die Nein Edelreenheide/Die Uffwaarting (Hospitality).md",
     "source/content/Values/Die Nein Edelreenheide/Die Treie (Troth).md",
     "source/content/Values/Die Nein Edelreenheide/Die Schaffichheit (Industriousness).md",
     "source/content/Values/Die Nein Edelreenheide/Die Ehr (Honor).md",
-    "source/content/Values/Die Nein Edelreenheide/Die Ausdauer (Perseverance).md",
     "source/content/Values/Die Nein Edelreenheide/Die Addning (Discipline).md",
     "source/content/Values/Die Nein Edelreenheide/Der Mut (Courage).md",
-    "source/content/Values/Newwereenheide",
-    "source/content/Values/Die Nein Edelreenheide",
-    "source/content/Values",
-    "source/content/Runes",
+    "source/content/Pantheon/Wane/Holle.md",
+    "source/content/Pantheon/Urglaawe-Specific Pantheon/Ziu.md",
+    "source/content/Resources/Processed/Urglaawe Funerary Rites 2.pdf",
     "source/content/Resources/Processed/Urglaawe Leicht General Funeral.pdf",
-    "source/content/Resources/Processed/Urglaawe Funerary Rites 2.pdf"
+    "source/content/Resources/Processed/Oschdre 2014.pdf",
+    "source/content/Resources/Processed/Kannsege adapted.pdf",
+    "source/content/Events/Life Events",
+    "source/content/Events/Calendar Events",
+    "source/content/Events",
+    "source/content/Animals",
+    "source/content/Values/Newwereenheide"
   ]
 }

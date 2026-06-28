@@ -1,7 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: Urglaawe Resources
 ---
-
-Hello world!
-
-Test test test
+# This site is for testing only
