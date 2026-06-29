@@ -14,7 +14,9 @@ resources:
 items: "[[Egg]]"
 ---
 # Deity Details
-**Deity Of**: Herald of Spring, Goddess of Dawn
+**Deity Of**: 
+- Herald of Spring
+- Goddess of Dawn
 
 **Associations**: [[Egg]], [[Hare]]
 
@@ -35,3 +37,5 @@ items: "[[Egg]]"
 | Helf uns die Winderdunkelheit zerickzugloppe       | Help us to beat back the winter darkness |
 | So mir em Friehling sei Mariyelicht aablicke kenne | So that we can see the dawn of spring.   |
 | Heele!                                             | Hail!                                    |
+## Resources
+- [[Oschdre 2014.pdf]]
