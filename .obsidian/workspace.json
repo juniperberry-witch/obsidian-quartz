@@ -11,12 +11,14 @@
             "id": "2293173f93314f11",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "source/content/Resources/Processed/Midsummer Dingsege 2013.pdf"
+                "file": "source/content/Events/Calendar Events/Allelieweziel (Halloween).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Midsummer Dingsege 2013"
+              "icon": "lucide-file",
+              "title": "Allelieweziel (Halloween)"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Resources/Processed/Midsummer Dingsege 2013.pdf",
+                "file": "source/content/Events/Calendar Events/Der Oschdresege.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Midsummer Dingsege 2013"
+              "title": "Backlinks for Der Oschdresege"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Resources/Processed/Midsummer Dingsege 2013.pdf",
+                "file": "source/content/Events/Calendar Events/Der Oschdresege.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Midsummer Dingsege 2013"
+              "title": "Outgoing links from Der Oschdresege"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Resources/Processed/Midsummer Dingsege 2013.pdf",
+                "file": "source/content/Events/Calendar Events/Der Oschdresege.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Midsummer Dingsege 2013"
+              "title": "Outline of Der Oschdresege"
             }
           }
         ]
@@ -183,40 +185,40 @@
   },
   "active": "2293173f93314f11",
   "lastOpenFiles": [
-    "source/content/Events/Calendar Events/Midsummer.md",
-    "source/content/Resources/Processed/Midsummer Dingsege 2013.pdf",
-    "source/content/Runes/Tiwaz.md",
-    "source/content/Resources/In-Reach Yuul 2013.pdf",
     "source/content/Events/Life Events/Gedechnisleicht (Funeral).md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Sunna.md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Voll.md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Volla.md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Siwwa.md",
-    "source/content/Pantheon/Wane/Dunner.md",
-    "source/content/Events/Calendar Events/Der Walpurgisnachtsege.md",
+    "source/content/Events/Calendar Events/Allelieweziel (Halloween).md",
+    "source/content/Pantheon/Urglaawe-Specific Pantheon/Butzemann (Scarecrow).md",
+    "source/content/Resources/Allelieweziel 2014.pdf",
+    "source/content/Resources/Allelieweziel 2013.pdf",
+    "source/content/Events/Calendar Events/Der Kannsege.md",
+    "source/content/Events/Calendar Events/Midsummer.md",
     "source/content/Events/Calendar Events/Der Yuulsege.md",
-    "source/content/Basics/Urglaawe.md",
-    "source/content/Resources/Processed/Urglaawe Braucherei.pdf",
-    "source/content/Basics/Braucherei.md",
-    "source/content/Resources/Processed/Urglaawe Deitsch Identity.pdf",
-    "source/content/Resources/Templates/[[Animal]].md",
-    "source/content/index.md",
-    "source/content/Untitled.md",
-    "source/content/Basics",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Ziu.md",
-    "source/content/Pantheon/Wane/Wodan.md",
-    "source/content/Resources/Processed/Walpurgisnacht 2013.pdf",
-    "source/content/Pantheon/Wane/Holle.md",
-    "source/content/Pantheon/Wane/Oschdra.md",
-    "source/content/Resources/Processed/Oschdre 2014.pdf",
-    "source/content/Resources/Processed/Urglaawe Funerary Rites 2.pdf",
+    "source/content/Runes/Mannaz.md",
     "source/content/Events/Calendar Events/Der Oschdresege.md",
-    "source/content/Animals/Wood Duck.md",
-    "source/content/Values/Newwereenheide/Die Weisheit (Wisdom).md",
+    "source/content/Events/Calendar Events/Der Walpurgisnachtsege.md",
+    "source/content/Events/Calendar Events/Erntfescht (Harvest Home).md",
+    "source/content/Resources/Processed/Erntfescht un Zisasege 2014.pdf",
+    "source/content/Resources/Processed/Walpurgisnacht 2013.pdf",
+    "source/content/Pantheon/Norse Pantheon/Frigg.md",
+    "source/content/Items/Basic/Pinecone.md",
+    "source/content/Items/Food/Egg.md",
+    "source/content/Resources/In-Reach Yuul 2013.pdf",
+    "source/content/Pantheon/Urglaawe-Specific Pantheon/Zisa.md",
+    "source/content/Resources/Horse Protection Charm.pdf",
+    "source/content/Items/Basic",
+    "source/content/Pantheon/Wane/Holle.md",
+    "source/content/Basics/Urglaawe.md",
+    "source/content/Basics/Braucherei.md",
     "source/content/Values/Newwereenheide/Es Mitleid (Compassion).md",
-    "source/content/Animals/Woodcock.md",
-    "source/content/Animals/Hare.md",
-    "source/content/Resources/Processed/Urglaawe Leicht General Funeral.pdf",
-    "source/content/Resources/Processed/Kannsege adapted.pdf"
+    "source/content/Values/Newwereenheide/Die Verwalting (Stewardship).md",
+    "source/content/Resources/Processed/Oschdre 2014.pdf",
+    "source/content/Resources/Processed/Midsummer Dingsege 2013.pdf",
+    "source/content/Resources/Processed/Kannsege adapted.pdf",
+    "source/content/Values/Newwereenheide/Der Edelmut (Generosity).md",
+    "source/content/Runes/Jera.md",
+    "source/content/Runes/Naudhiz.md",
+    "source/content/Runes/Thurisaz.md",
+    "source/content/Pantheon/Urglaawe-Specific Pantheon/Idunn.md",
+    "source/content/Runes/Tiwaz.md"
   ]
 }

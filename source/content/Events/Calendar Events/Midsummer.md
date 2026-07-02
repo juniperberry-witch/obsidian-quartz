@@ -5,7 +5,7 @@ We are now on the opposite end of the year. We have planted the seeds for things
 # Event Details
 **Event Time**:
 
-**Event Steps**: 
+**Event Examples**: 
 - [[Midsummer Dingsege 2013.pdf]]
 
 **Pantheon**: 
@@ -19,5 +19,7 @@ We are now on the opposite end of the year. We have planted the seeds for things
 - [[Fehu]]
 - [[Wunjo]]
 
+**Values**
+- [[Die Uffwaarting (Hospitality)]]
 ## Resources
 - [[Midsummer Dingsege 2013.pdf]]

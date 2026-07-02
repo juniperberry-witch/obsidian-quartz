@@ -20,7 +20,7 @@ We are here for many reasons. Foremost, we wish to celebrate the life of the dec
 # Event Details
 **Event Time**: Death of community member
 
-**Event Steps:**
+**Event Examples:**
 - [[Urglaawe Leicht General Funeral.pdf]]
 - [[Urglaawe Funerary Rites 2.pdf]]
 

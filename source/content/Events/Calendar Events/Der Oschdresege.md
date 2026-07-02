@@ -18,7 +18,8 @@ At Groundhog Day, we celebrate the Birth of the new. Oschdre is the propagation 
 # Event Details
 **Event Time**: March 19, 20, 21 ([[1. Holzhaane Moon]])
 
-**Event Steps:** [[Oschdre 2014.pdf]]
+**Event Examples:** 
+- [[Oschdre 2014.pdf]]
 
 **Pantheon**:
 - [[Oschdra]]
@@ -29,5 +30,7 @@ At Groundhog Day, we celebrate the Birth of the new. Oschdre is the propagation 
 - [[Sowilo]]
 - [[Dagaz]]
 
+**Values**: 
+- [[Die Verwalting (Stewardship)]]
 ## Resources
 - [[Oschdre 2014.pdf]]

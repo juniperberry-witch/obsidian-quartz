@@ -20,7 +20,8 @@ Experience the joy of life, including the joy of planting new life in the ground
 # Event Details
 **Event Time**: May 1st ([[2. Holzent Moon]])
 
-**Event Steps:** [[Walpurgisnacht 2013.pdf]]
+**Event Examples:** 
+- [[Walpurgisnacht 2013.pdf]]
 
 **Pantheon**:
 - [[Holle]]
@@ -30,3 +31,10 @@ Experience the joy of life, including the joy of planting new life in the ground
 - [[Kenaz]]
 - [[Jera]]
 - [[Wunjo]]
+
+**Values**: 
+- [[Es Mitleid (Compassion)]]
+- [[Die Verwandschaft (Kinship)]]
+
+## Resources
+- [[Walpurgisnacht 2013.pdf]]

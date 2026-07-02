@@ -17,7 +17,8 @@ resources:
 # Event Details
 **Event Time:**
 
-**Event Steps:** [[Kannsege adapted.pdf]]
+**Event Examples:** 
+- [[Kannsege adapted.pdf]]
 
 **Runes**: 
 - [[Ingwaz]]
