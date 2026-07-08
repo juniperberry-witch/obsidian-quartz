@@ -1,6 +1,6 @@
 ---
 events:
-  - "[](Der%20Oschdresege.md)"
+  - "[](Der%20Oschdresege%20(Groundhog%20Day).md)"
 runes:
 muunraad:
   - "[[1. Holzhaane Moon]]"
@@ -10,7 +10,7 @@ properties:
   - Pantheon
   - Wane
 resources:
-  - "[](Der%20Oschdresege.md)"
+  - "[](Der%20Oschdresege%20(Groundhog%20Day).md)"
 items: "[[Egg]]"
 ---
 # Deity Details

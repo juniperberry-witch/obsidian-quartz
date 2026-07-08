@@ -1,6 +1,6 @@
 # Deity Details
 **Deity Of**:
-- Goddess whom we see in the life-giving sunlight.
+- Goddess whom we see in the life-giving sunlight
 
 **Associations**:
 

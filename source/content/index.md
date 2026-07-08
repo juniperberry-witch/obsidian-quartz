@@ -12,4 +12,11 @@ title: Urglaawe Resources
 - [[Urglaawe Funerary Rites 2.pdf]]
 - [[Urglaawe Leicht General Funeral.pdf]]
 - [[Walpurgisnacht 2013.pdf]]
+- [[Allelieweziel 2013.pdf]]
+- [[Allelieweziel 2014.pdf]]
+- [[Horse Protection Charm.pdf]]
+- [[Berchtaslaaf 2014.pdf]]
+- [[Ewicher Yeeger 2014.pdf]]
+
+
 

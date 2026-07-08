@@ -20,6 +20,9 @@ resources:
 **Event Examples:** 
 - [[Kannsege adapted.pdf]]
 
+**Pantheon**:
+- [[Butzemann (Scarecrow)]]
+
 **Runes**: 
 - [[Ingwaz]]
 - [[Jera]]
