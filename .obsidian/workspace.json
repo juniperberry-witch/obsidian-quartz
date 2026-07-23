@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "source/content/Resources/Allelieweziel (Halloween)/Allelieweziel 2013.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,8 +185,10 @@
   },
   "active": "dd568baf37284613",
   "lastOpenFiles": [
-    "source/content/Files/Allelieweziel 2013.pdf",
+    "quartz.config.yaml",
+    "source/content/Files/Yuul 2014 1-01.pdf",
     "source/content/Resources/Allelieweziel (Halloween)/Allelieweziel 2013.md",
+    "source/content/Files/Allelieweziel 2013.pdf",
     "source/content/Untitled.md",
     "source/content/Resources/Allelieweziel (Halloween)",
     "source/content/Resources",
@@ -216,7 +218,6 @@
     "source/content/Topics/Gods/Wudan.md",
     "source/content/Topics/Gods/Holle.md",
     "source/content/Topics/Gods/Butzemann (Scarecrow).md",
-    "source/content/Topics/Basics",
     "source/content/index.md.md",
     "source/content/Runes/Kenaz.md",
     "source/content/Pantheon/Urglaawe-Specific Pantheon/Holler.md"

@@ -10,4 +10,7 @@ Runes:
   - Ingwas
   - Mannaz
 Type: Event
+"quartz-properties:": "true"
 ---
+# Document
+- [[Allelieweziel 2013.pdf]]

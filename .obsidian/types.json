@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "dieties": "multitext",
-    "Runes": "multitext"
+    "Runes": "multitext",
+    "quartz-properties:": "checkbox"
   }
 }
