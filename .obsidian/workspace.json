@@ -11,13 +11,14 @@
             "id": "dd568baf37284613",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Basic-View.base",
-                "viewName": "Basic"
+                "file": "source/content/index.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Basic-View"
+              "icon": "lucide-file",
+              "title": "index.md"
             }
           },
           {
@@ -194,12 +195,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd568baf37284613",
+  "active": "f6306218793e6e8f",
   "lastOpenFiles": [
+    "source/content/Basic-View.base",
     "source/CODE_OF_CONDUCT.md",
     "source/README.md",
     "source/content/File-Resources/Allelieweziel (Halloween)/Allelieweziel 2013.md",
-    "Basic-View.base",
     "source/content/index.md.md",
     "source/content/Files/Allelieweziel 2013.pdf",
     "README.md",
@@ -230,7 +231,6 @@
     "source/content/Topics/Runes/Mannaz.md",
     "source/content/Topics/Runes/Ingwas.md",
     "source/content/Topics/Runes/Jera.md",
-    "source/content/Topics/Gods/Wudan.md",
-    "source/content/Topics/Gods/Holle.md"
+    "source/content/Topics/Gods/Wudan.md"
   ]
 }
