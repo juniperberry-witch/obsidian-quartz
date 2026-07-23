@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
-                "mode": "source",
+                "file": "source/content/Resources/Allelieweziel (Halloween)/Allelieweziel 2013.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Allelieweziel 2013"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Resources/Berchtaslaaf 2014.pdf",
+                "file": "source/content/Runes/Kenaz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Berchtaslaaf 2014"
+              "title": "Backlinks for Kenaz"
             }
           },
           {
@@ -185,40 +185,40 @@
   },
   "active": "dd568baf37284613",
   "lastOpenFiles": [
-    "source/content/Resources/Yuul 2014 1-01.pdf",
-    "source/content/Resources/In-Reach Yuul 2013.pdf",
-    "source/content/Resources/Processed/Ewicher Yeeger 2014.pdf",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Holler.md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Ewich Yeeger (Eternal Hunter).md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Butzemann (Scarecrow).md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Sunna.md",
-    "source/content/Events/Calendar Events/Erntfescht (Harvest Home).md",
-    "source/content/Events/Calendar Events/Der Walpurgisnachtsege.md",
-    "source/content/Events/Calendar Events/Der Kannsege (Ceremony of the Corn).md",
-    "source/content/Events/Calendar Events/Der Berchtaslaaf (Progression of Berchta).md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Volla.md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Voll.md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Idunn.md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Ziu.md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Zisa.md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Siwwa.md",
-    "source/content/index.md",
-    "source/content/Resources/Processed/Berchtaslaaf 2014.pdf",
-    "source/content/Animals/Owl.md",
-    "source/content/Animals/Fox.md",
-    "source/content/Animals/Hare.md",
-    "source/content/Animals/Horse.md",
-    "source/content/Animals/Wood Duck.md",
-    "source/content/Events/Calendar Events/Allelieweziel (Halloween).md",
-    "source/content/Resources/Processed/Walpurgisnacht 2013.pdf",
-    "Perthro.md",
-    "source/content/Runes/Perthro.md",
-    "source/content/Events/Calendar Events/Der Oschdresege (Groundhog Day).md",
-    "source/content/Events/Calendar Events/Der Yuulsege (Yule).md",
-    "source/content/Resources/Processed/Horse Protection Charm.pdf",
-    "source/content/Resources/Processed/Allelieweziel 2013.pdf",
-    "source/content/Resources/Processed/Allelieweziel 2014.pdf",
-    "source/content/Resources/Processed/Oschdre 2014.pdf",
-    "source/content/Resources/Processed/Urglaawe Funerary Rites 2.pdf"
+    "source/content/Files/Allelieweziel 2013.pdf",
+    "source/content/Resources/Allelieweziel (Halloween)/Allelieweziel 2013.md",
+    "source/content/Untitled.md",
+    "source/content/Resources/Allelieweziel (Halloween)",
+    "source/content/Resources",
+    "source/content/Events/Der Butzemannsege (Ceremony of the Scarecrow).md",
+    "source/content/Events/Der Kannsege (Ceremony of the Corn).md",
+    "source/content/Events/Entschtanning.md",
+    "source/content/Events/Berchtaslaaf.md",
+    "source/content/Events/Allelieweziel (Halloween).md",
+    "source/content/Topics/Basics/Braucherei.md",
+    "source/content/Resources/Basics.md",
+    "source/content/Topics/Gods/Frigg.md",
+    "source/content/Files/Entschtanning 2015.pdf",
+    "source/content/Files/Braucherei in the Urglaawe Context.pdf",
+    "source/content/Files/Berchtaslaaf 2015.pdf",
+    "source/content/Topics/Runes/Dagaz.md",
+    "source/content/Topics/Runes/Kenaz.md",
+    "source/content/Topics/Runes/Laguz.md",
+    "source/content/Topics/Runes/Perthro.md",
+    "source/content/Topics/Gods/Berchta.md",
+    "source/content/Files/Berchtaslaaf 2014.pdf",
+    "source/content/Files/Allelieweziel 2014.pdf",
+    "source/content/Topics/Runes/Raidho.md",
+    "source/content/Topics/Runes/Mannaz.md",
+    "source/content/Files/Allelieweziel 2015.pdf",
+    "source/content/Topics/Runes/Ingwas.md",
+    "source/content/Topics/Runes/Jera.md",
+    "source/content/Topics/Gods/Wudan.md",
+    "source/content/Topics/Gods/Holle.md",
+    "source/content/Topics/Gods/Butzemann (Scarecrow).md",
+    "source/content/Topics/Basics",
+    "source/content/index.md.md",
+    "source/content/Runes/Kenaz.md",
+    "source/content/Pantheon/Urglaawe-Specific Pantheon/Holler.md"
   ]
 }
