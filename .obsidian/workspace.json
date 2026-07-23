@@ -11,13 +11,24 @@
             "id": "dd568baf37284613",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "source/content/Resources/Allelieweziel (Halloween)/Allelieweziel 2013.md",
-                "mode": "source",
-                "source": false
+                "file": "Basic-View.base",
+                "viewName": "Basic"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-table",
+              "title": "Basic-View"
+            }
+          },
+          {
+            "id": "b41ef825bb93b99d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "source/content/Files/Allelieweziel 2013.pdf"
+              },
+              "icon": "lucide-file-text",
               "title": "Allelieweziel 2013"
             }
           }
@@ -53,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Wudan",
+                "query": "tag:Halloween",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +85,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,15 +194,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "d85609d2a2ba4b63",
+  "active": "dd568baf37284613",
   "lastOpenFiles": [
+    "source/CODE_OF_CONDUCT.md",
+    "source/README.md",
+    "source/content/File-Resources/Allelieweziel (Halloween)/Allelieweziel 2013.md",
+    "Basic-View.base",
+    "source/content/index.md.md",
+    "source/content/Files/Allelieweziel 2013.pdf",
+    "README.md",
+    "Untitled.md",
     "quartz.config.yaml",
     "source/content/Files/Yuul 2014 1-01.pdf",
-    "source/content/Resources/Allelieweziel (Halloween)/Allelieweziel 2013.md",
-    "source/content/Files/Allelieweziel 2013.pdf",
     "source/content/Untitled.md",
-    "source/content/Resources/Allelieweziel (Halloween)",
-    "source/content/Resources",
+    "source/content/File-Resources/Allelieweziel (Halloween)",
+    "source/content/File-Resources",
     "source/content/Events/Der Butzemannsege (Ceremony of the Scarecrow).md",
     "source/content/Events/Der Kannsege (Ceremony of the Corn).md",
     "source/content/Events/Entschtanning.md",
@@ -210,17 +226,11 @@
     "source/content/Topics/Runes/Perthro.md",
     "source/content/Topics/Gods/Berchta.md",
     "source/content/Files/Berchtaslaaf 2014.pdf",
-    "source/content/Files/Allelieweziel 2014.pdf",
     "source/content/Topics/Runes/Raidho.md",
     "source/content/Topics/Runes/Mannaz.md",
-    "source/content/Files/Allelieweziel 2015.pdf",
     "source/content/Topics/Runes/Ingwas.md",
     "source/content/Topics/Runes/Jera.md",
     "source/content/Topics/Gods/Wudan.md",
-    "source/content/Topics/Gods/Holle.md",
-    "source/content/Topics/Gods/Butzemann (Scarecrow).md",
-    "source/content/index.md.md",
-    "source/content/Runes/Kenaz.md",
-    "source/content/Pantheon/Urglaawe-Specific Pantheon/Holler.md"
+    "source/content/Topics/Gods/Holle.md"
   ]
 }

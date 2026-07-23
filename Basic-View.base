@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.path.contains("File-Resources")
+views:
+  - type: table
+    name: Basic
+    filters:
+      and:
+        - file.path.contains("File-Resources")
+    order:
+      - file.name
+      - tags
+      - year
+  - type: table
+    name: Runes
+    order:
+      - file.name
+      - Runes
+  - type: table
+    name: Deities
+    order:
+      - file.name
+      - Deities

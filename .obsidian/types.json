@@ -5,6 +5,8 @@
     "tags": "tags",
     "dieties": "multitext",
     "Runes": "multitext",
-    "quartz-properties:": "checkbox"
+    "quartz-properties:": "checkbox",
+    "Deities": "multitext",
+    "year": "number"
   }
 }
