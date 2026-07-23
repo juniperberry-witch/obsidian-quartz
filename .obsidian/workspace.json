@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Wudan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd568baf37284613",
+  "active": "d85609d2a2ba4b63",
   "lastOpenFiles": [
     "quartz.config.yaml",
     "source/content/Files/Yuul 2014 1-01.pdf",

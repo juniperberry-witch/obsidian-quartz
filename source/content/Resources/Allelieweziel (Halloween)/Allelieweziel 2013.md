@@ -1,15 +1,14 @@
 ---
-Deities:
+tags:
   - Holle
   - Wudan
   - Butzemann
-Runes:
   - Raidho
   - Jera
   - Kenaz
   - Ingwas
   - Mannaz
-Type: Event
+  - Event
 "quartz-properties:": "true"
 ---
 # Document
